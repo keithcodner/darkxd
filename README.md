@@ -6,7 +6,7 @@ An official dark theme for Adobe XD does not currently exist. Since 2016, the fe
 
 On Windows, Adobe XD is a Universal Windows Platform (UWP) app. Therefore, we can build on top of the "built-in" and unofficial dark theme. Read more about [UWP and colors here](https://docs.microsoft.com/en-us/windows/uwp/design/style/color). 
 
-![Adobe XD Dark Theme](https://i.imgur.com/MzGZA4f.png)
+![Adobe XD Dark Theme](https://i.imgur.com/TnBSihC.png)
 
 ## Compatibility
 
