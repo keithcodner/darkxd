@@ -12,6 +12,7 @@ On Windows, Adobe XD is a Universal Windows Platform (UWP) app. Therefore, we ca
 
 Tested with: 
 
+* Adobe XD 57.1.12.2 for Windows downloaded via Creative Cloud
 * Adobe XD 32.1.22.3 for Windows downloaded via Creative Cloud
 	* Note: If you want to help, see if you can find the `General.xaml` color settings for: the line that appears under "Component" and related State rows (#E0F0FA), white dialog boxes, white instructional popups, the canvas area, etc.  Some of these UI components are entirely inaccessible via `General.xaml` modifications; i.e. .png image files such as `SP_Switch_Sm_D.scale-400.png`.
 * Adobe XD 31.1.12.13 for Windows downloaded via Creative Cloud (old version; no longer supported)
