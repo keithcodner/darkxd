@@ -34,7 +34,7 @@ Tested with:
 2. Follow Shawn's instructions. Double-click the appropriate .reg file to enable access and the "Take Ownership" right-click shell extension. 
 3. Navigate to `C:\Program Files\WindowsApps`.  Find the folder that begins with `Adobe.CC.XD`. Inside, find the `Themes` folder.
 4. The themes folder should contain several files. One of those files should be `General.xaml`. Right-click `General.xaml` and click "Take Ownership." Next, make a backup (a copy) of `General.xaml` and store the backup elsewhere (i.e. a Desktop or Documents folder). *If you want to switch back to the light theme later, you will need to restore the original `General.xaml` file.*
-5. Download this project's unofficial dark theme `General.xaml` from https://www.dropbox.com/s/62elsglx8wl8rdq/General.zip?dl=0. If needed, extract the `General.xaml` file.
+5. Download this project's unofficial dark theme `General.xaml` from https://www.dropbox.com/scl/fi/z4qmubbvmxo7owsafg3p6/General.zip?rlkey=h0othu23bcoxwgfsol67bd10z&st=ytud01s9&dl=0. If needed, extract the `General.xaml` file.
 6. Copy the "dark" `General.xaml` into XD's `Themes` folder, thereby replacing the original.
 
 The dark theme should now be applied. You can now launch Adobe XD. Note that the first screen will be light. Beyond that, a significant portion of the XD interface will be dark. 
